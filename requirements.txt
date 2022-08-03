@@ -1,0 +1,10 @@
+# Jupyter and Pandas Libraries
+jupyter
+numpy
+pandas
+matplotlib
+
+# Development tools
+black
+pylint
+mypy
