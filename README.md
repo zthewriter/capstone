@@ -1,4 +1,4 @@
-# Capstone project for YOUR NAME HERE
+# Capstone project for ZAI ORTIZ
 
 ![Course Hero](images/hero.png)
 
